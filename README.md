@@ -69,7 +69,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/antonioalvromero/antonioalvromero/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/antonioalvromero/antonioalvromero/output/snake.svg?v=1" alt="Snake animation" />
 
 
 
